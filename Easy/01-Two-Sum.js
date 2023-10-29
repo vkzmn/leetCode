@@ -33,7 +33,7 @@
  * @return {number[]}
  */
 
-const twoSum = function (nums, target) {
+const twoSum = (nums, target) => {
   const hash = new Map();
 
   for (let i = 0; i < nums.length; i++) {

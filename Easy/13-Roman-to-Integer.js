@@ -43,8 +43,8 @@
  * @param {string} s
  * @return {number}
  */
-let romanToInt = (s) => {
-  let nums = {
+const romanToInt = (s) => {
+  const nums = {
     I: 1,
     V: 5,
     X: 10,

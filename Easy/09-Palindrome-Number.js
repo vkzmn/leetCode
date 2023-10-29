@@ -28,7 +28,7 @@
  * @param {number} x
  * @return {boolean}
  */
-var isPalindrome = function (x) {
+const isPalindrome = (x) => {
   if (x < 0) return false;
   let temp = x;
   let result = 0;
