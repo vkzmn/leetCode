@@ -1,4 +1,12 @@
-# LeetCode problems
+# LeetCode
+
+### Solved: 14
+
+🟢 Easy (**13**/745) &nbsp; &nbsp; 🟡 Medium: (**2**/1546) &nbsp; &nbsp; 🔴 Hard: (**0**/644)
+
+---
+
+#### Problems:
 
 - [Two Sum](https://github.com/vkzmn/leetCode/blob/main/Easy/01-Two-Sum.js) 🟢
 - [Add Two Numbers](https://github.com/vkzmn/leetCode/blob/main/Medium/02-Add-Two-Numbers.js) 🟡
@@ -14,3 +22,4 @@
 - [Plus One](https://github.com/vkzmn/leetCode/blob/main/Easy/66-Plus-One.js) 🟢
 - [Add Binary](https://github.com/vkzmn/leetCode/blob/main/Easy/67-Add-Binary.js) 🟢
 - [Sqrt(x)](<https://github.com/vkzmn/leetCode/blob/main/Easy/69-Sqrt(x).js>) 🟢
+- [Climbing Stairs](https://github.com/vkzmn/leetCode/blob/main/Easy/70-Climbing-Stairs.js) 🟢
