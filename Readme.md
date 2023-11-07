@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 14
+### Solved: 19
 
-🟢 Easy (**13**/745) &nbsp; &nbsp; 🟡 Medium: (**2**/1546) &nbsp; &nbsp; 🔴 Hard: (**0**/644)
+🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**2**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
 
 ---
 
@@ -11,6 +11,7 @@
 - [Two Sum](https://github.com/vkzmn/leetCode/blob/main/Easy/01-Two-Sum.js) 🟢
 - [Add Two Numbers](https://github.com/vkzmn/leetCode/blob/main/Medium/02-Add-Two-Numbers.js) 🟡
 - [Longest Substring Without Repeating Characters](https://github.com/vkzmn/leetCode/blob/main/Medium/03-Longest-Substring-Without-Repeating-Characters.js) 🟡
+- [Median of Two Sorted Arrays](https://github.com/vkzmn/leetCode/blob/main/Hard/04-Median-of-Two-Sorted-Arrays.js) 🔴
 - [Palindrome Number](https://github.com/vkzmn/leetCode/blob/main/Easy/09-Palindrome-Number.js) 🟢
 - [Roman to Integer](https://github.com/vkzmn/leetCode/blob/main/Easy/13-Roman-to-Integer.js) 🟢
 - [Valid Parentheses](https://github.com/vkzmn/leetCode/blob/main/Easy/20-Valid-Parentheses.js) 🟢
@@ -23,3 +24,6 @@
 - [Add Binary](https://github.com/vkzmn/leetCode/blob/main/Easy/67-Add-Binary.js) 🟢
 - [Sqrt(x)](<https://github.com/vkzmn/leetCode/blob/main/Easy/69-Sqrt(x).js>) 🟢
 - [Climbing Stairs](https://github.com/vkzmn/leetCode/blob/main/Easy/70-Climbing-Stairs.js) 🟢
+- [Remove Duplicates from Sorted List](https://github.com/vkzmn/leetCode/blob/main/Easy/83-Remove-Duplicates-from-Sorted-List.js) 🟢
+- [Merge Sorted Arrays](https://github.com/vkzmn/leetCode/blob/main/Easy/88-Merge-Sorted-Array.js) 🟢
+- [Binary Tree Inorder Traversal](https://github.com/vkzmn/leetCode/blob/main/Easy/94-Binary-Tree-Inorder-Traversal.js) 🟢
