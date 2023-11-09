@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 19
+### Solved: 22
 
-🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**2**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
+🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**5**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
 
 ---
 
@@ -12,6 +12,9 @@
 - [Add Two Numbers](https://github.com/vkzmn/leetCode/blob/main/Medium/02-Add-Two-Numbers.js) 🟡
 - [Longest Substring Without Repeating Characters](https://github.com/vkzmn/leetCode/blob/main/Medium/03-Longest-Substring-Without-Repeating-Characters.js) 🟡
 - [Median of Two Sorted Arrays](https://github.com/vkzmn/leetCode/blob/main/Hard/04-Median-of-Two-Sorted-Arrays.js) 🔴
+- [Longest Palindromic Substring](https://github.com/vkzmn/leetCode/blob/main/Medium/05-Longest-Palindromic-Substring.js) 🟡
+- [Zigzag Conversion](https://github.com/vkzmn/leetCode/blob/main/Medium/06-Zigzag-Conversion.js) 🟡
+- [Reverse Integer](https://github.com/vkzmn/leetCode/blob/main/Medium/07-Reverse-Integer.js) 🟡
 - [Palindrome Number](https://github.com/vkzmn/leetCode/blob/main/Easy/09-Palindrome-Number.js) 🟢
 - [Roman to Integer](https://github.com/vkzmn/leetCode/blob/main/Easy/13-Roman-to-Integer.js) 🟢
 - [Valid Parentheses](https://github.com/vkzmn/leetCode/blob/main/Easy/20-Valid-Parentheses.js) 🟢
