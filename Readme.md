@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 22
+### Solved: 27
 
-🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**5**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
+🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**10**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
 
 ---
 
@@ -16,7 +16,12 @@
 - [Zigzag Conversion](https://github.com/vkzmn/leetCode/blob/main/Medium/06-Zigzag-Conversion.js) 🟡
 - [Reverse Integer](https://github.com/vkzmn/leetCode/blob/main/Medium/07-Reverse-Integer.js) 🟡
 - [Palindrome Number](https://github.com/vkzmn/leetCode/blob/main/Easy/09-Palindrome-Number.js) 🟢
+- [Container With Most Water](https://github.com/vkzmn/leetCode/blob/main/Medium/11-Container-With-Most-Water.js) 🟡
+- [Integer to Roman](https://github.com/vkzmn/leetCode/blob/main/Medium/12-Integer-to-Roman.js) 🟡
 - [Roman to Integer](https://github.com/vkzmn/leetCode/blob/main/Easy/13-Roman-to-Integer.js) 🟢
+- [3Sum](https://github.com/vkzmn/leetCode/blob/main/Medium/15-3Sum.js) 🟡
+- [3Sum Closest](https://github.com/vkzmn/leetCode/blob/main/Medium/16-3Sum-Closest.js) 🟡
+- [Letter Combinations of a Phone Number](https://github.com/vkzmn/leetCode/blob/main/Medium/17-Letter-Combinations-of-a-Phone-Number.js) 🟡
 - [Valid Parentheses](https://github.com/vkzmn/leetCode/blob/main/Easy/20-Valid-Parentheses.js) 🟢
 - [Merge Two Sorted List](https://github.com/vkzmn/leetCode/blob/main/Easy/21-Merge-Two-Sorted-Lists.js) 🟢
 - [Remove Duplicates from Sorted Array](https://github.com/vkzmn/leetCode/blob/main/Easy/26-Remove-Duplicates-from-Sorted-Array.js) 🟢
