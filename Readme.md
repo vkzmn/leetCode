@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 27
+### Solved: 30
 
-🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**10**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
+🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**13**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
 
 ---
 
@@ -22,8 +22,11 @@
 - [3Sum](https://github.com/vkzmn/leetCode/blob/main/Medium/15-3Sum.js) 🟡
 - [3Sum Closest](https://github.com/vkzmn/leetCode/blob/main/Medium/16-3Sum-Closest.js) 🟡
 - [Letter Combinations of a Phone Number](https://github.com/vkzmn/leetCode/blob/main/Medium/17-Letter-Combinations-of-a-Phone-Number.js) 🟡
+- [Remove Nth Node From End of List](https://github.com/vkzmn/leetCode/blob/main/Medium/19-Remove-Nth-Node-From-End-of-List.js) 🟡
 - [Valid Parentheses](https://github.com/vkzmn/leetCode/blob/main/Easy/20-Valid-Parentheses.js) 🟢
 - [Merge Two Sorted List](https://github.com/vkzmn/leetCode/blob/main/Easy/21-Merge-Two-Sorted-Lists.js) 🟢
+- [Generate Parentheses](https://github.com/vkzmn/leetCode/blob/main/Medium/22-Generate-Parentheses.js) 🟡
+- [Swap Nodes in Pairs](https://github.com/vkzmn/leetCode/blob/main/Medium/24-Swap-Nodes-in-Pairs.js) 🟡
 - [Remove Duplicates from Sorted Array](https://github.com/vkzmn/leetCode/blob/main/Easy/26-Remove-Duplicates-from-Sorted-Array.js) 🟢
 - [Remove Element](https://github.com/vkzmn/leetCode/blob/main/Easy/27-Remove-Element.js) 🟢
 - [Search Insert Position](https://github.com/vkzmn/leetCode/blob/main/Easy/35-Search-Insert-Position.js) 🟢
