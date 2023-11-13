@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 30
+### Solved: 32
 
-🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**13**/1546) &nbsp; &nbsp; 🔴 Hard: (**1**/644)
+🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**14**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
@@ -29,7 +29,9 @@
 - [Swap Nodes in Pairs](https://github.com/vkzmn/leetCode/blob/main/Medium/24-Swap-Nodes-in-Pairs.js) 🟡
 - [Remove Duplicates from Sorted Array](https://github.com/vkzmn/leetCode/blob/main/Easy/26-Remove-Duplicates-from-Sorted-Array.js) 🟢
 - [Remove Element](https://github.com/vkzmn/leetCode/blob/main/Easy/27-Remove-Element.js) 🟢
+- [Next Permutation](https://github.com/vkzmn/leetCode/blob/main/Medium/31-Next-Permutation.js) 🟡
 - [Search Insert Position](https://github.com/vkzmn/leetCode/blob/main/Easy/35-Search-Insert-Position.js) 🟢
+- [Trapping Rain Water](https://github.com/vkzmn/leetCode/blob/main/Hard/42-Trapping-Rain-Water.js) 🔴
 - [Length of Last Word](https://github.com/vkzmn/leetCode/blob/main/Easy/58-Length-of-Last-Word.js) 🟢
 - [Plus One](https://github.com/vkzmn/leetCode/blob/main/Easy/66-Plus-One.js) 🟢
 - [Add Binary](https://github.com/vkzmn/leetCode/blob/main/Easy/67-Add-Binary.js) 🟢
