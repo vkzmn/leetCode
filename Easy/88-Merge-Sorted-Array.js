@@ -41,7 +41,7 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-let merge = (nums1, m, nums2, n) => {
+const merge = (nums1, m, nums2, n) => {
   let i = m - 1;
   let j = n - 1;
   let p = m + n - 1;

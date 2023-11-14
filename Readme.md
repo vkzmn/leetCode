@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 32
+### Solved: 36
 
-🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**14**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
+🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**18**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
@@ -30,7 +30,11 @@
 - [Remove Duplicates from Sorted Array](https://github.com/vkzmn/leetCode/blob/main/Easy/26-Remove-Duplicates-from-Sorted-Array.js) 🟢
 - [Remove Element](https://github.com/vkzmn/leetCode/blob/main/Easy/27-Remove-Element.js) 🟢
 - [Next Permutation](https://github.com/vkzmn/leetCode/blob/main/Medium/31-Next-Permutation.js) 🟡
+- [Search in Rotated Sorted Array](https://github.com/vkzmn/leetCode/blob/main/Medium/33-Search-in-Rotated-Sorted-Array.js) 🟡
+- [Find First and Last Position of Element in Sorted Array](https://github.com/vkzmn/leetCode/blob/main/Medium/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.js) 🟡
 - [Search Insert Position](https://github.com/vkzmn/leetCode/blob/main/Easy/35-Search-Insert-Position.js) 🟢
+- [Combination Sum](https://github.com/vkzmn/leetCode/blob/main/Medium/39-Combination-Sum.js) 🟡
+- [Combination Sum II](https://github.com/vkzmn/leetCode/blob/main/Medium/40-Combination-Sum-II.js) 🟡
 - [Trapping Rain Water](https://github.com/vkzmn/leetCode/blob/main/Hard/42-Trapping-Rain-Water.js) 🔴
 - [Length of Last Word](https://github.com/vkzmn/leetCode/blob/main/Easy/58-Length-of-Last-Word.js) 🟢
 - [Plus One](https://github.com/vkzmn/leetCode/blob/main/Easy/66-Plus-One.js) 🟢
