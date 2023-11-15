@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 36
+### Solved: 43
 
-🟢 Easy (**16**/745) &nbsp; &nbsp; 🟡 Medium: (**18**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
+🟢 Easy (**23**/745) &nbsp; &nbsp; 🟡 Medium: (**18**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
@@ -44,3 +44,11 @@
 - [Remove Duplicates from Sorted List](https://github.com/vkzmn/leetCode/blob/main/Easy/83-Remove-Duplicates-from-Sorted-List.js) 🟢
 - [Merge Sorted Arrays](https://github.com/vkzmn/leetCode/blob/main/Easy/88-Merge-Sorted-Array.js) 🟢
 - [Binary Tree Inorder Traversal](https://github.com/vkzmn/leetCode/blob/main/Easy/94-Binary-Tree-Inorder-Traversal.js) 🟢
+- [Symmetric Tree](https://github.com/vkzmn/leetCode/blob/main/Easy/101-Symmetric-Tree.js) 🟢
+- [Maximum Depth of Binary Tree](https://github.com/vkzmn/leetCode/blob/main/Easy/104-Maximum-Depth-of-Binary-Tree.js) 🟢
+- [Convert Sorted Array to Binary Search Tree](https://github.com/vkzmn/leetCode/blob/main/Easy/108-Convert-Sorted-Array-to-Binary-Search-Tree.js) 🟢
+- [Path Sum](https://github.com/vkzmn/leetCode/blob/main/Easy/112-Path-Sum.js) 🟢
+- [Pascal's Triangle](https://github.com/vkzmn/leetCode/blob/main/Easy/118-Pascal's-Triangle.js) 🟢
+- [Pascal's Triangle II](https://github.com/vkzmn/leetCode/blob/main/Easy/119-Pascal's-Triangle-II.js) 🟢
+- [Best Time to Buy and Sell Stock](https://github.com/vkzmn/leetCode/blob/main/Easy/121-Best-Time-to-Buy-and-Sell-Stock.js) 🟢
+- [Valid Palindrome](https://github.com/vkzmn/leetCode/blob/main/Easy/125-Valid-Palindrome.js) 🟢
