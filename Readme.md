@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 43
+### Solved: 46
 
-🟢 Easy (**23**/745) &nbsp; &nbsp; 🟡 Medium: (**18**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
+🟢 Easy (**26**/745) &nbsp; &nbsp; 🟡 Medium: (**18**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
@@ -52,3 +52,6 @@
 - [Pascal's Triangle II](https://github.com/vkzmn/leetCode/blob/main/Easy/119-Pascal's-Triangle-II.js) 🟢
 - [Best Time to Buy and Sell Stock](https://github.com/vkzmn/leetCode/blob/main/Easy/121-Best-Time-to-Buy-and-Sell-Stock.js) 🟢
 - [Valid Palindrome](https://github.com/vkzmn/leetCode/blob/main/Easy/125-Valid-Palindrome.js) 🟢
+- [Single Number](https://github.com/vkzmn/leetCode/blob/main/Easy/136-Single-Number.js) 🟢
+- [Linked List Cycle](https://github.com/vkzmn/leetCode/blob/main/Easy/141-Linked-List-Cycle.js) 🟢
+- [Binary Tree Preorder Traversal](https://github.com/vkzmn/leetCode/blob/main/Easy/144-Binary-Tree-Preorder-Traversal.js) 🟢
