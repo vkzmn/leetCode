@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 46
+### Solved: 64
 
-🟢 Easy (**26**/745) &nbsp; &nbsp; 🟡 Medium: (**18**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
+🟢 Easy (**41**/745) &nbsp; &nbsp; 🟡 Medium: (**21**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
@@ -36,6 +36,9 @@
 - [Combination Sum](https://github.com/vkzmn/leetCode/blob/main/Medium/39-Combination-Sum.js) 🟡
 - [Combination Sum II](https://github.com/vkzmn/leetCode/blob/main/Medium/40-Combination-Sum-II.js) 🟡
 - [Trapping Rain Water](https://github.com/vkzmn/leetCode/blob/main/Hard/42-Trapping-Rain-Water.js) 🔴
+- [Multiply Strings](https://github.com/vkzmn/leetCode/blob/main/Medium/43-Multiply-Strings.js) 🟡
+- [Jump Game II](https://github.com/vkzmn/leetCode/blob/main/Medium/45-Jump-Game-II.js) 🟡
+- [Permutations](https://github.com/vkzmn/leetCode/blob/main/Medium/46-Permutations.js) 🟡
 - [Length of Last Word](https://github.com/vkzmn/leetCode/blob/main/Easy/58-Length-of-Last-Word.js) 🟢
 - [Plus One](https://github.com/vkzmn/leetCode/blob/main/Easy/66-Plus-One.js) 🟢
 - [Add Binary](https://github.com/vkzmn/leetCode/blob/main/Easy/67-Add-Binary.js) 🟢
@@ -55,3 +58,19 @@
 - [Single Number](https://github.com/vkzmn/leetCode/blob/main/Easy/136-Single-Number.js) 🟢
 - [Linked List Cycle](https://github.com/vkzmn/leetCode/blob/main/Easy/141-Linked-List-Cycle.js) 🟢
 - [Binary Tree Preorder Traversal](https://github.com/vkzmn/leetCode/blob/main/Easy/144-Binary-Tree-Preorder-Traversal.js) 🟢
+- [Binary Tree Postorder Traversal](https://github.com/vkzmn/leetCode/blob/main/Easy/145-Binary-Tree-Postorder-Traversal.js) 🟢
+- [Intersection of Two Linked Lists](https://github.com/vkzmn/leetCode/blob/main/Easy/160-Intersection-of-Two-Linked-Lists.js) 🟢
+- [Excel Sheet Column Title](https://github.com/vkzmn/leetCode/blob/main/Easy/168-Excel-Sheet-Column-Title.js) 🟢
+- [Majority Element](https://github.com/vkzmn/leetCode/blob/main/Easy/169-Majority-Element.js) 🟢
+- [Excel Sheet Column Number](https://github.com/vkzmn/leetCode/blob/main/Easy/171-Excel-Sheet-Column-Number.js) 🟢
+- [Reverse Bits](https://github.com/vkzmn/leetCode/blob/main/Easy/190-Reverse-Bits.js) 🟢
+- [Number of 1 Bits](https://github.com/vkzmn/leetCode/blob/main/Easy/191-Number-of-1-Bits.js) 🟢
+- [Happy Numbers](https://github.com/vkzmn/leetCode/blob/main/Easy/202-Happy-Number.js) 🟢
+- [Remove Linked List Relements](https://github.com/vkzmn/leetCode/blob/main/Easy/203-Remove-Linked-List-Elements.js) 🟢
+- [Isomorphic Strings](https://github.com/vkzmn/leetCode/blob/main/Easy/205-Isomorphic-Strings.js) 🟢
+- [Reverse Linked List](https://github.com/vkzmn/leetCode/blob/main/Easy/206-Reverse-Linked-List.js) 🟢
+- [Contains Duplicate](https://github.com/vkzmn/leetCode/blob/main/Easy/217-Contains-Duplicate.js) 🟢
+- [Invert Binary Tree](https://github.com/vkzmn/leetCode/blob/main/Easy/226-Invert-Binary-Tree.js) 🟢
+- [Summary Ranges](https://github.com/vkzmn/leetCode/blob/main/Easy/228-Summary-Ranges.js) 🟢
+- [Power of Two](https://github.com/vkzmn/leetCode/blob/main/Easy/231-Power-of-Two.js) 🟢
+- [Impplement Queue using Stacks](https://github.com/vkzmn/leetCode/blob/main/Easy/232-Implement-Queue-using-Stacks.js) 🟢
