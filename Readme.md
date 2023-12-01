@@ -1,8 +1,8 @@
 # LeetCode
 
-### Solved: 64
+### Solved: 68
 
-🟢 Easy (**41**/745) &nbsp; &nbsp; 🟡 Medium: (**21**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
+🟢 Easy (**41**/745) &nbsp; &nbsp; 🟡 Medium: (**25**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
@@ -39,6 +39,10 @@
 - [Multiply Strings](https://github.com/vkzmn/leetCode/blob/main/Medium/43-Multiply-Strings.js) 🟡
 - [Jump Game II](https://github.com/vkzmn/leetCode/blob/main/Medium/45-Jump-Game-II.js) 🟡
 - [Permutations](https://github.com/vkzmn/leetCode/blob/main/Medium/46-Permutations.js) 🟡
+- [Permutations II](https://github.com/vkzmn/leetCode/blob/main/Medium/47-Permutations-II.js) 🟡
+- [Rotate Image](https://github.com/vkzmn/leetCode/blob/main/Medium/48-Rotate-Image.js) 🟡
+- [Group Anagrams](https://github.com/vkzmn/leetCode/blob/main/Medium/49-Group-Anagrams.js) 🟡
+- [Pow(x,n)](<https://github.com/vkzmn/leetCode/blob/main/Medium/50-Pow(x%2C%20n).js>) 🟡
 - [Length of Last Word](https://github.com/vkzmn/leetCode/blob/main/Easy/58-Length-of-Last-Word.js) 🟢
 - [Plus One](https://github.com/vkzmn/leetCode/blob/main/Easy/66-Plus-One.js) 🟢
 - [Add Binary](https://github.com/vkzmn/leetCode/blob/main/Easy/67-Add-Binary.js) 🟢
