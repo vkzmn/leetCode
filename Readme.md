@@ -1,12 +1,15 @@
 # LeetCode
 
-### Solved: 68
+Documenting my LeetCode conquests.🏋️ Sharpen my coding skills one challenge at a time.
+This repository contains a collection of solutions to LeetCode problems I've managed to solve thus far.
 
-🟢 Easy (**41**/745) &nbsp; &nbsp; 🟡 Medium: (**25**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
+### Solved: 79
+
+🟢 Easy (**41**/745) &nbsp; &nbsp; 🟡 Medium: (**36**/1546) &nbsp; &nbsp; 🔴 Hard: (**2**/644)
 
 ---
 
-#### Problems:
+**Problems:**
 
 - [Two Sum](https://github.com/vkzmn/leetCode/blob/main/Easy/01-Two-Sum.js) 🟢
 - [Add Two Numbers](https://github.com/vkzmn/leetCode/blob/main/Medium/02-Add-Two-Numbers.js) 🟡
@@ -43,11 +46,22 @@
 - [Rotate Image](https://github.com/vkzmn/leetCode/blob/main/Medium/48-Rotate-Image.js) 🟡
 - [Group Anagrams](https://github.com/vkzmn/leetCode/blob/main/Medium/49-Group-Anagrams.js) 🟡
 - [Pow(x,n)](<https://github.com/vkzmn/leetCode/blob/main/Medium/50-Pow(x%2C%20n).js>) 🟡
+- [Maximum Subarray](https://github.com/vkzmn/leetCode/blob/main/Medium/53-Maximum-Subarray.js) 🟡
+- [Jump Game](https://github.com/vkzmn/leetCode/blob/main/Medium/55-Jump-Game.js) 🟡
+- [Merge Intervals](https://github.com/vkzmn/leetCode/blob/main/Medium/56-Merge-Intervals.js) 🟡
 - [Length of Last Word](https://github.com/vkzmn/leetCode/blob/main/Easy/58-Length-of-Last-Word.js) 🟢
+- [Spiral Matrix II](https://github.com/vkzmn/leetCode/blob/main/Medium/59-Spiral-Matrix-II.js) 🟡
+- [Unique Paths](https://github.com/vkzmn/leetCode/blob/main/Medium/62-Unique-Paths.js) 🟡
+- [Unique Paths II](https://github.com/vkzmn/leetCode/blob/main/Medium/63-Unique-Paths-II.js) 🟡
+- [Minimum Path Sum](https://github.com/vkzmn/leetCode/blob/main/Medium/64-Minimum-Path-Sum.js) 🟡
 - [Plus One](https://github.com/vkzmn/leetCode/blob/main/Easy/66-Plus-One.js) 🟢
 - [Add Binary](https://github.com/vkzmn/leetCode/blob/main/Easy/67-Add-Binary.js) 🟢
 - [Sqrt(x)](<https://github.com/vkzmn/leetCode/blob/main/Easy/69-Sqrt(x).js>) 🟢
 - [Climbing Stairs](https://github.com/vkzmn/leetCode/blob/main/Easy/70-Climbing-Stairs.js) 🟢
+- [Edit Distance](https://github.com/vkzmn/leetCode/blob/main/Medium/72-Edit-Distance.js) 🟡
+- [Search a 2D Matrix](https://github.com/vkzmn/leetCode/blob/main/Medium/74-Search-a-2D-Matrix.js) 🟡
+- [Sort Colors](https://github.com/vkzmn/leetCode/blob/main/Medium/75-Sort-Colors.js) 🟡
+- [Combinations](https://github.com/vkzmn/leetCode/blob/main/Medium/77-Combinations.js) 🟡
 - [Remove Duplicates from Sorted List](https://github.com/vkzmn/leetCode/blob/main/Easy/83-Remove-Duplicates-from-Sorted-List.js) 🟢
 - [Merge Sorted Arrays](https://github.com/vkzmn/leetCode/blob/main/Easy/88-Merge-Sorted-Array.js) 🟢
 - [Binary Tree Inorder Traversal](https://github.com/vkzmn/leetCode/blob/main/Easy/94-Binary-Tree-Inorder-Traversal.js) 🟢
